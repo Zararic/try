@@ -1,3 +1,24 @@
-h1 {
-  color: blue;
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+h1,
+h2,
+h3 {
+  text-align: center;
+}
+
+.container {
+  float: left;
+  width: 45vw;
+  margin: 1vw;
+}
+body {
+  background-color: bisque;
+}
+img {
+  width: 100%;
+}
+p {
+  text-align: justify;
 }
